@@ -1,0 +1,32 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+div#left{
+	width: 48vw;
+	height: 100vh;
+	text-align: center;
+	display: inline-block;
+	border-right: 5px solid black;
+	line-height: 150px;
+}
+
+
+div#right{
+	width: 48vw;
+	height: 100vh;
+	text-align: center;
+	display: inline-block;
+	border-left: 5px solid black;
+	line-height: 150px;
+}
+
+img{
+	width: 40vmin;
+	height: 50vmin;
+	margin-top:50%;
+	top:-20vmin;
+	position: relative;
+	vertical-align: middle;
+}
