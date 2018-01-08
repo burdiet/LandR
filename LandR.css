@@ -23,6 +23,8 @@ div#right{
 }
 
 img{
+	pointer-events: none;
+  	cursor: default;
 	width: 40vmin;
 	height: 50vmin;
 	margin-top:50%;
